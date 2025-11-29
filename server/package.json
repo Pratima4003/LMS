@@ -1,0 +1,27 @@
+{
+    "name": "lms-server",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "nodemon src/server.ts",
+        "build": "tsc",
+        "start": "node dist/server.js"
+    },
+    "dependencies": {
+        "express": "latest",
+        "cors": "latest",
+        "dotenv": "latest",
+        "helmet": "latest",
+        "morgan": "latest",
+        "prisma": "latest",
+        "@prisma/client": "latest"
+    },
+    "devDependencies": {
+        "typescript": "latest",
+        "@types/node": "latest",
+        "@types/express": "latest",
+        "@types/cors": "latest",
+        "nodemon": "latest",
+        "ts-node": "latest"
+    }
+}
