@@ -1,8 +1,3 @@
-Sure Pratima — I’ll generate **detailed project requirements** based strictly on the content inside your attached `LMS.md` file.
-Here is the full analysis and a complete SRS-style requirement document.
-
----
-
 # ✅ **Learning Management System — Detailed Requirements Document (Based on LMS.md)**
 
 Below is a structured Software Requirements Specification (SRS) derived from your provided overview.
